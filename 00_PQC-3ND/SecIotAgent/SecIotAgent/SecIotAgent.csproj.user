@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AuthServerConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CertInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FingerAuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginV2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginV3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainFormV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PufUsbTabMemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegistrarotionUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegistrationUSBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TrayIconForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Forms\MainFormV2.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

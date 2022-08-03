@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MaterialSkin.2.NetCore/2.2.1": {
+        "runtime": {
+          "lib/net5.0-windows7.0/MaterialSkin.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "MetroModernUI/1.4.0": {
+        "runtime": {
+          "lib/net/MetroFramework.Design.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          },
+          "lib/net/MetroFramework.Fonts.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          },
+          "lib/net/MetroFramework.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      },
+      "Sparrow.Chart.Wpf/13.1.0.118": {
+        "runtime": {
+          "lib/net40/Sparrow.Chart.Wpf.40.dll": {
+            "assemblyVersion": "13.1.0.118",
+            "fileVersion": "13.1.0.118"
+          }
+        }
+      },
+      "WebSocketSharp-netstandard/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaterialSkin.2.NetCore/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4RKF9lkZjuRTB/vaCB1Gz7EB8kyXJA1B0DrQ9qIcC6L0IxIHwfsybCtX1XE54DaMZUgT2S6ThglliV6fqWarsQ==",
+      "path": "materialskin.2.netcore/2.2.1",
+      "hashPath": "materialskin.2.netcore.2.2.1.nupkg.sha512"
+    },
+    "MetroModernUI/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p2F3w8bF1tb0tpkDceEVO65UYMKnJxdQyNxVyl/OjrFZHighicLYZDppKkiqmvBZ10XUi2mqHiIJUzXBP3GElQ==",
+      "path": "metromodernui/1.4.0",
+      "hashPath": "metromodernui.1.4.0.nupkg.sha512"
+    },
+    "Sparrow.Chart.Wpf/13.1.0.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQdvtNrKtbucTn2Hn4ro3a2sACkWLdnTPGW0Z6LB+6sjaMhbuJp112toCmPeaP5Z3Xvw5Lm/L0xK1Ni4jzdfsw==",
+      "path": "sparrow.chart.wpf/13.1.0.118",
+      "hashPath": "sparrow.chart.wpf.13.1.0.118.nupkg.sha512"
+    },
+    "WebSocketSharp-netstandard/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-knoinAv31vbdxXdypnzN2MPX5hyntVLWceq6OdWRXkr9zzqp/RWbxSuLFGbkW8De1061URgNAN43BUTlgMx1CA==",
+      "path": "websocketsharp-netstandard/1.0.1",
+      "hashPath": "websocketsharp-netstandard.1.0.1.nupkg.sha512"
+    }
+  }
+}

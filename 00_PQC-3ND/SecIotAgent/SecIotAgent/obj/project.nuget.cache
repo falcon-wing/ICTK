@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+Qdx+nFRP584EoY5lE355zhSlgw055oBLdz46JdzsmSmnTuwn4P4CXC5ZAXQ72dJ8kNPAUG55P7lpPuwl5FlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\SecIotAgent\\SecIotAgent\\SecIotAgent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\materialskin.2.netcore\\2.2.1\\materialskin.2.netcore.2.2.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sparrow.chart.wpf\\13.1.0.118\\sparrow.chart.wpf.13.1.0.118.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 'net6.0-windows7.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'MetroModernUI 1.4.0'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 'net6.0-windows7.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'Sparrow.Chart.Wpf 13.1.0.118'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "Sparrow.Chart.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
